@@ -71,8 +71,6 @@ I am a senior student at **Nanjing University of Posts and Telecommunications (N
 <br>
 *Bachelor of Engineering in Internet of Things (IoT)* | 2022.09 - 2026.07
 
-- **Core Courses**: Data Structures & Algorithms, Computer Networks, Operating Systems, Database Systems, Java Fundamentals.
-- **Awards**: Second Prize in **Lanqiao Cup** (Provincial Level).
 
 ---
 
