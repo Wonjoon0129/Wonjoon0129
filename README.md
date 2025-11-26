@@ -63,23 +63,7 @@ I am a senior student at **Nanjing University of Posts and Telecommunications (N
 
 </div>
 
----
 
-### 💼 Work Experience
-
-#### **Neusoft Group (Nanjing) | Enterprise Digital Products Division**
-*Java Backend Developer Intern*
-
-> **Project: Enterprise Procurement Middle Platform System**
->
-> Participated in the transformation and maintenance of the procurement middle platform, integrating with MRO and SCM systems.
-
-- **Module Development**: Responsible for business requirement transformation in category, bidding, and inquiry modules.
-- **Performance Optimization**: Analyzed and optimized slow SQL queries using techniques like union queries, redundant storage, "small table driving big table," and batch insertion, significantly improving interface response speed.
-- **System Integration**: Accelerated interface response by asynchronously pushing data to MDM and MRO systems. Implemented a delay retry mechanism using **Redis delayed queues** and scheduled tasks for failed pushes.
-- **Achievement**: Independently responsible for 7 functional requirements and 3 online issue fixes. All code passed review and testing on the first attempt.
-
----
 
 ### 📚 Education
 
