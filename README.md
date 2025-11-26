@@ -23,12 +23,7 @@
       <p>
         我热衷于后端开发，特别是 <strong>Java 生态系统</strong>。我有参与企业级分布式系统开发的经验，并且正在探索使用 Spring AI 构建大模型应用。
       </p>
-      <ul>
-        <li>🔭 目前正在参与 <strong>企业采购中台系统</strong> 的开发与维护。</li>
-        <li>🌱 正在深入学习 <strong>分布式架构 (CAP, Raft)</strong> 与 <strong>AI 应用开发 (RAG)</strong>。</li>
-        <li>💬 欢迎和我讨论 <strong>Java, Spring Boot, MySQL, 以及分布式缓存</strong> 技术。</li>
-        <li>⚡ 个人信条: <strong>代码如诗，设计如画。</strong></li>
-      </ul>
+
     </td>
     <td width="40%" align="center">
       <!-- 3D Isometric Developer GIF -->
